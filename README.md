@@ -1,6 +1,6 @@
 # PySpark
 
-This folder includes PySpark examples.<br />
+This folder includes PySpark examples. All examples are developed using public available data. <br />
 - 1 *PySpark_CMS_Categorization_Example*: this one is an example of claim processing for traditional ML models. <br />
   It aggregates information for an individual by categorizing utilization with CMS diagnosis code grouping logic.  <br />
   It was developed using open source claim from CMS. <br />
